@@ -1,0 +1,2 @@
+# keylogger
+pip install keyboard
